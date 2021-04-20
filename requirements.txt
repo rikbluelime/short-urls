@@ -21,7 +21,7 @@ mysql-connector==2.2.9
 packaging==20.1
 peewee==3.11.2
 pluggy==0.13.1
-py==1.8.1
+py==1.10.0
 pygame==1.9.6
 pyparsing==2.4.6
 pyperclip==1.7.0
